@@ -6,9 +6,6 @@
   "engines": {
     "node": "20.9.0"
   },
-  "scripts": {
-    "start": "npx json-server db.json"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
