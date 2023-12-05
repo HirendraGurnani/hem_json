@@ -1,6 +1,4 @@
-// import { create, router as _router, defaults } from 'json-server'
-import pkg from "json-server";
-const { create, router: _router, defaults } = pkg;
+import { create, router as _router, defaults } from 'json-server'
 const server = create();
 
 const router = _router("db.json");
