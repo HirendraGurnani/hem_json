@@ -9,7 +9,7 @@
       "emp_id": 120,
       "photo": "https://drive.google.com/uc?export=view&id=1RdVg90mM1-rx2RmfIzbL2Hti6xK_qr5S",
       "cont_number": "9630643649",
-      "designation": "Frontend Intern",
+      "designation": "Frontend Developer",
       "salary": "15000",
       "attendance": [
         {
@@ -136,11 +136,11 @@
     },
     {
       "id": 2,
-      "name": "Varun Rahangdale",
+      "name": "Palash Jain",
       "emp_id": 121,
-      "photo": "https://dashboard-statics.s3.ap-south-1.amazonaws.com/varun.jpg",
-      "cont_number": "9766255452",
-      "designation": "Trainer/Developer",
+      "photo": "https://drive.google.com/uc?export=view&id=1e6Z7W-nvoW1xbhgoNhgQD67F9aTcMOLH",
+      "cont_number": "7999099907",
+      "designation": "EV Expert",
       "salary": "45000",
       "attendance": [
         {
@@ -267,11 +267,11 @@
     },
     {
       "id": 3,
-      "name": "Anmol Chaware",
+      "name": "Rahul Mansukhani",
       "emp_id": 122,
-      "photo": "https://dashboard-statics.s3.ap-south-1.amazonaws.com/anmol.jpg",
-      "cont_number": "8793483116",
-      "designation": "Technical Consultant",
+      "photo": "https://drive.google.com/uc?export=view&id=12Z57Ruy-ZLVuCijrjUJQkNJOt3puUlHr",
+      "cont_number": "8435931823",
+      "designation": "Managing Director",
       "salary": "55000",
       "attendance": [
         {
@@ -398,11 +398,11 @@
     },
     {
       "id": 4,
-      "name": "Kasturi Chaware",
+      "name": "Anshul Kiyawat",
       "emp_id": 123,
-      "photo": "https://dashboard-statics.s3.ap-south-1.amazonaws.com/kasturi.png",
-      "cont_number": "9158060441",
-      "designation": "Python Trainer",
+      "photo": "https://drive.google.com/uc?export=view&id=1_AdRKUrq-hEQ0VwvVjoiqsNYTrAB5G0N",
+      "cont_number": "(585)957-6396",
+      "designation": "Python Intern",
       "salary": "35000",
       "attendance": [
         {
